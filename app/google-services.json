@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772223321629",
+    "project_id": "friendapp-f02ee",
+    "storage_bucket": "friendapp-f02ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772223321629:android:9a35fd2965c6ed77e928f4",
+        "android_client_info": {
+          "package_name": "com.app.friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772223321629-5ok9e3o8tj6bhb73a9m2o17r1sf5huoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.friends",
+            "certificate_hash": "2d59b59a8097a25381aca0060f99171caca9d2f3"
+          }
+        },
+        {
+          "client_id": "772223321629-g4ret0a7qtneiln1gmlrnl7ufhjim7ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.friends",
+            "certificate_hash": "692f4f6c6a3a48adc825958c3934bc1a0857a95f"
+          }
+        },
+        {
+          "client_id": "772223321629-a9kgdve7j3bnuu02ba80acue0jkr4125.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQLGmfrbTncNtpUNahdUBNtKnT1hWCv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772223321629-a9kgdve7j3bnuu02ba80acue0jkr4125.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
